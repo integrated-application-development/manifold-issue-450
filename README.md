@@ -11,3 +11,5 @@ The project pom has been set up to use manifold exception 2022.1.5. Simply compi
 
 Compiling with the following section of the pom commented out will compile correctly without any errors.
 https://github.com/Integrated-Application-Development/instanceof/blob/984f5e2ce3a72dfaee82a06e908969d67c6618c9/pom.xml#L19-L21
+
+Smaple code for https://github.com/manifold-systems/manifold/issues/450
